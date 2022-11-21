@@ -1,4 +1,4 @@
----Created By 0x83
+--Created By 0x83
 
 local lplr = game.Players.LocalPlayer
 local camera = game:GetService("Workspace").CurrentCamera
